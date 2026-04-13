@@ -1,0 +1,1 @@
+console.log("hello webpack222"),console.log("production");
