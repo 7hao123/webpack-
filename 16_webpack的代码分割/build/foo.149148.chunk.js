@@ -1,0 +1,1 @@
+(self.webpackChunk_13_webpack_devServer=self.webpackChunk_13_webpack_devServer||[]).push([["foo"],{904(){console.log("Hello foo")}}]);
