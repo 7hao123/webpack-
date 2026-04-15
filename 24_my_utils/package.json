@@ -1,0 +1,17 @@
+{
+  "name": "24_my_utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2",
+  "dependencies": {
+    "webpack": "^5.106.1",
+    "webpack-cli": "^7.0.2"
+  }
+}
