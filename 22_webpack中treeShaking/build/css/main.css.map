@@ -1,0 +1,1 @@
+{"version":3,"file":"css/main.css","mappings":";;yHAAA,KACI,qBACJ","sources":["webpack://13_webpack的devServer/./src/style.css"],"sourcesContent":["body{\r\n    background-color: pink;\r\n}"],"names":[],"sourceRoot":""}
